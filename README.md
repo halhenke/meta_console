@@ -1,6 +1,8 @@
 # MetaConsole
 
-TODO: Write a gem description
+**This isnt ready yet** for much of anything....so yeah.
+
+OK - so I want this to have most of my stuff thats currently in `meta_methods` script as a Gem.
 
 ## Installation
 
