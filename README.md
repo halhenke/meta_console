@@ -29,3 +29,21 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Me Flailing Around...
+
+### CANT GET THIS TO FUCKING WORK!!!
+- is it because of the requires in the actual modules?
+*holy fuck - IT WORKS NOW*
+- why?
+  - I uninstalled the old version
+- now if I do
+  - `require "meta_console"`
+- from pry it works...
+- Actually
+  - no need to require - its already loaded...
+
+### FOR RAILS
+- For Local Installation
+- In Gemfile
+  - `gem 'meta_console', path: "~/code/Ruby/My First Gem/meta_console"`
